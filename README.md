@@ -1,5 +1,6 @@
 # Dmoney API Automation
-## Project Summary : Performed Integration and API testing on dmoney API. Here I have automated the CRUD functionalities for a user.
+## Project Summary : 
+Performed Integration and API testing on dmoney API. Here I have automated the CRUD functionalities for a user.
 
 ## Technologies I have used :
 - Postman

@@ -26,7 +26,11 @@ This installs Newman (Postman’s CLI runner) into the project.
 `npx newman run .\collection\dmoney-test.postman_collection.json`  
 This executes all API tests defined in the collection JSON.
 
-**6. Generate/print the test report**  
+**6. Install Newman Reporter**
+`npm i newman-reporter-htmlextra`  
+This is needed to generate a readable HTML report from Postman/Newman run.
+
+**7. Generate/print the test report**  
 `node .\report.js`  
 This runs a custom report script included in the repo.
 
